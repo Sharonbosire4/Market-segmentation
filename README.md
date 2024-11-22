@@ -1,8 +1,11 @@
 #Market Segmentation Analysis
 
-This repository contains a comprehensive analysis of market segmentation using various data science techniques. The analyses  covers exploratory data analysis (EDA), customer segmentation, Cohort analysis and market basket analysis.
+This repository contains a comprehensive analysis of market segmentation using various data science techniques. 
+
+The analyses  covers exploratory data analysis (EDA), customer segmentation, Cohort analysis and market basket analysis.
 
 Repository Contents
+
 1.Behavioral_segmentation_COHORT_ANALYSIS .ipynb: Performs cohort analysis to understand customer behavior over time.
 
 2.Behavioral_segmentation_RFM .ipynb: Applies Recency, Frequency, and Monetary (RFM) analysis for customer segmentation.
