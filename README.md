@@ -1,6 +1,6 @@
 # **Market Segmentation Analysis**
 
-This repository contains a comprehensive analysis of customer segmentation using various data science techniques.  
+This repository contains a comprehensive analysis of customer/market segmentation using various data science techniques.  
 The analyses include **Exploratory Data Analysis (EDA)**, **Customer Segmentation**, **Cohort Analysis**, and **Market Basket Analysis**.
 
 ---
